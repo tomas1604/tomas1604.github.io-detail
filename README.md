@@ -1,0 +1,1 @@
+# tomas1604.github.io-detail
