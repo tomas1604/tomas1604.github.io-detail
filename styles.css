@@ -1,0 +1,48 @@
+.body-class {
+    background-color: #FFFFFF;
+    font-size: 2vw;
+}
+
+.header-class {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.nav-class {
+    background-color: #FCA311;
+    color: #E5E5E5;
+    font-weight: bold;
+}
+
+.title-class {
+    color: #FFFFFF;
+}
+
+.section-title-class {
+    color: #FCA311;
+}
+
+.text-class {
+    color: #14213D;
+}
+
+.image-class {
+    border: 20px solid transparent;
+    border-image: 122px;
+    border-color: #14213D;
+}
+
+.input-class {
+    width: 50%;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+.button-class {
+    background-color: #FCA311;
+}
+
+.footer-class {
+    background-color: #E5E5E5;
+    color: #14213D;
+}
